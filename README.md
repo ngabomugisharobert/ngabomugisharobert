@@ -14,17 +14,17 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I'm Robert Ngabo Mugisha
 
-I'm a dedicated **Data Engineer** and **Full-stack Developer** with a strong background in software engineering. Currently pursuing a Master of Science in Business Analytics at Emory University, after completing my Master's in Information Technology, specializing in Software Engineering at Carnegie Mellon University.
+I'm a dedicated **Data Engineer** and **Native Android Developer** with a strong background in software engineering. Graduated from Emory University in Master's of Business Analytics and Master's in Information Technology, specializing in Software Engineering at Carnegie Mellon University.
 
 #### 🛠️ Technical Skills
-- **Languages:** Python, JavaScript, Java, SQL, R, Shell
+- **Languages:** Java, Kotlin, Python, JavaScript, SQL, R, Shell
 - **Databases:** SQL (MySQL, PostgreSQL), NoSQL (MongoDB, Cassandra, HBase, DynamoDB), BigQuery
 - **Frameworks/Technologies:** Hadoop ecosystem, Apache Kafka, Apache Airflow, TensorFlow, Kubernetes, CI/CD, Docker, Git, Shell scripting, Tableau, PySpark, React JS, Express JS, Spring boot, Django
 
 #### 💼 Professional Experience
 - **Data Engineer Consultant** at Pennybacker Capital
 - **DevOps Engineer** at BPR Bank Rwanda
-- **Software Engineer** at Hydro Operation Great Lakes (HOGL)
+- **Senior Software Engineer** at Hydro Operation Great Lakes (HOGL)
 - **Full-stack Developer** at Tieto EVRY
 
 #### 🌟 Interests
