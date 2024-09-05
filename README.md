@@ -7,14 +7,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about Native Android Development
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 ### 👋 Hi, I'm Robert Ngabo Mugisha
 
-I'm a dedicated **Data Engineer** and **Native Android Developer** with a strong background in software engineering. Graduated from Emory University in Master's of Business Analytics and Master's in Information Technology, specializing in Software Engineering at Carnegie Mellon University.
+I'm a dedicated **Native Android Developer** with a strong background in software engineering. Graduated from Emory University in Master's of Business Analytics and Master's in Information Technology, specializing in Software Engineering at Carnegie Mellon University.
 
 #### 🛠️ Technical Skills
 - **Languages:** Java, Kotlin, Python, JavaScript, SQL, R, Shell
@@ -31,7 +31,6 @@ I'm a dedicated **Data Engineer** and **Native Android Developer** with a strong
 I am passionate about leveraging technology to solve complex problems and improve decision-making processes. I am always keen on learning new technologies and methodologies in the fast-evolving tech landscape.
 
 #### 📫 Connect with me
-- [LinkedIn](linkedin.com/in/robertngabomugisha/)
 - [GitHub](github.com/ngabomugisharobert)
 
 I'm open to collaborating on innovative projects and sharing knowledge within the tech community. Feel free to reach out!
