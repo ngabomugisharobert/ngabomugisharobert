@@ -14,20 +14,20 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hi, I'm Robert Ngabo Mugisha
 
-I'm a dedicated **Native Android Developer** with a strong background in software engineering. Graduated from Emory University in Master's of Business Analytics and Master's in Information Technology, specializing in Software Engineering at Carnegie Mellon University.
+I'm a dedicated **Android Developer** with a strong background in software engineering. Graduated from Carnegie Mellon University with Master's in Information Technology, specializing in Software Engineering.
 
 #### 🛠️ Technical Skills
 - **Languages:** Kotlin, Java Python, JavaScript, Shell Scripting
 - **Databases:** SQL (MySQL, SQLite, PostgreSQL), NoSQL (FireStore, MongoDB, Cassandra, HBase, DynamoDB), BigQuery
 - **Frameworks/Technologies:** Kubernetes, Jetpack Compose, MVVM, MVI, MVC, Clean Architecture, Design Patterns, CI/CD, Docker, Git, Shell scripting, Tableau, PySpark, React JS, Express JS, Spring boot, Django
-
+<!--
 #### 💼 Professional Experience
 - **Senior Android Developer** at The Tech Field
 - **Data Engineer Consultant** at Pennybacker Capital
 - **DevOps Engineer** at BPR Bank Rwanda
 - **Senior Software Engineer** at Hydro Operation Great Lakes (HOGL)
 - **Full-stack Developer** at Tieto EVRY
-
+-->
 #### 🌟 Interests
 I am passionate about leveraging technology to solve complex problems and improve decision-making processes. I am always keen on learning new technologies and methodologies in the fast-evolving tech landscape.
 
