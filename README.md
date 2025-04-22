@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 Hi, I'm Robert Ngabo Mugisha
+### 👋 Hi, I'm Robert Pascal
 
 I'm a dedicated **Android Developer** with a strong background in software engineering. Graduated from Carnegie Mellon University with Master's in Information Technology, specializing in Software Engineering.
 
